@@ -16,8 +16,7 @@ import org.slf4j.LoggerFactory;
 /**
  * 客户端
  * 
- * @author 313921
- * 
+ * @author ww
  */
 public class ClientDemo {
 
